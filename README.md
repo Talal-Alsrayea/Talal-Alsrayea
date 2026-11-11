@@ -40,6 +40,13 @@ $$
 
 ---
 
+>## Understand and remember
+> do not go around claiming that encryption of any kind is truly secure.
+>> Nothing is ever truly hidden from a mind that understands the language of silence.
+>>> Take this lesson to heart.
+
+---
+
 ### ⚡ Mindset
 
 <p align="center">
@@ -89,6 +96,7 @@ $$
 </p>
 
 ---
+
 
 <p align="center">
   <a href="https://github.com/Talal-Alsrayea">
